@@ -8,7 +8,7 @@ export default async function Home() {
   return (
     <div className="flex flex-col">
       <h1 className="text-7xl font-extrabold">
-        Hello I'm{" "}
+        Hello I&apos;m
         <span className="bg-gradient-to-r from-[#008F8C] via-[#0CABA8] to-[#0FC2C0] bg-clip-text text-transparent">
           Nejc
         </span>
