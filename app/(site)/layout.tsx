@@ -31,7 +31,7 @@ export default async function RootLayout({
               <Link
                 key={page._id}
                 href={`/${page.slug}`}
-                className="hover:underline"
+                className="transition ease-in-out hover:underline"
               >
                 {page.title}
               </Link>
